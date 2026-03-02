@@ -1,0 +1,14 @@
+<!--?xml version="1.0" encoding="UTF-8"?-->
+<svg width="400" height="200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="200" fill="white" />
+  <circle cx="200" cy="100" r="3" fill="blue" />
+
+  <!--
+  꼭 광활한 우주라는 새까만 도화지에 찍힌 하나의 아름다운 창백한 푸른 점같군요.
+  Key: Pale Blue Dot
+  -->
+
+  <text x="200" y="180" font-size="14" text-anchor="middle" fill="red">
+    매우 평범한 하나의 점이다. 아름다운 푸른색이군. 정말 매력적이야.
+  </text>
+</svg>
